@@ -13,3 +13,10 @@ Below are the static features that we used from paper "Predicting bug-fixing tim
 | ESC              | indicating whether the bug is externally discovered (reported by end-users) or an internally discovered bug (reported by QA team). |
 | Category         | the category of the bug (such as Account management, Documentation, Configuration, etc.).                                          |
 | Summary          | a short description of the bug.  
+
+According to paper "Predicting bug-fixing time: an empirical study of commercial software projects", we calculate the distance between Priorities and Severities based on below charts:
+
+
+<p align="center">
+  <img src="https://github.com/STAIRS-UCI/OOSLA-Prediction/blob/main/priority_distance.png" width="350" title="hover text">
+</p>
