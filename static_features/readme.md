@@ -20,3 +20,5 @@ According to paper "Predicting bug-fixing time: an empirical study of commercial
 <p align="center">
   <img src="https://github.com/STAIRS-UCI/OOSLA-Prediction/blob/main/priority_distance.png" width="350" title="hover text">
 </p>
+
+For summary distance, we used the paper proposed bag of word method to calculate the distance. 
