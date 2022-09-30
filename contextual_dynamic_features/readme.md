@@ -27,3 +27,5 @@ Below are the contextual and dynamic features that we used from paper "Using dyn
 |                                       | nbugsCreatedInProjectClosedT       | number of bugs created and closed in the project during the period of 2 weeks before the bug creation until the observation point time.                       |
 |                                       | nCommitsProjectT                   | number of commits in the project during the period of 2 weeks before the bug creation until the observation point time.                                       |
 
+
+To better understand the dynamic and contextual feature, all detaled definitions are in the paper "Using dynamic and contextual features to predict issue lifetime in github projects".
